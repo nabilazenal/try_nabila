@@ -21,11 +21,7 @@ center = (max - min) / 2;
 %mbership = [center class];                 
 %mbership (i,j);
 %mbership = 1:4; 
-mbership = center;
-mbership (:, 4) = class;
-disp (mbership);
-%total data
-   data = 12;
+
    
 classifier = [0;1];
 
